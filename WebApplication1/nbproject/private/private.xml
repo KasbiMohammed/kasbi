@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Pc.Dell/Documents/NetBeansProjects/WebApplication1/src/java/ma/projet/classes/EmployeTachePK.java</file>
+            <file>file:/C:/Users/Pc.Dell/Documents/NetBeansProjects/WebApplication1/src/java/ma/projet/classes/EmployeTache.java</file>
+            <file>file:/C:/Users/Pc.Dell/Documents/NetBeansProjects/WebApplication1/src/java/ma/projet/service/EmployeService.java</file>
+            <file>file:/C:/Users/Pc.Dell/Documents/NetBeansProjects/WebApplication1/src/java/ma/projet/classes/Tache.java</file>
+            <file>file:/C:/Users/Pc.Dell/Documents/NetBeansProjects/WebApplication1/src/java/ma/projet/classes/Employe.java</file>
+            <file>file:/C:/Users/Pc.Dell/Documents/NetBeansProjects/WebApplication1/src/java/ma/projet/dao/IDao.java</file>
+            <file>file:/C:/Users/Pc.Dell/Documents/NetBeansProjects/WebApplication1/src/java/ma/projet/util/HibernateUtil.java</file>
+            <file>file:/C:/Users/Pc.Dell/Documents/NetBeansProjects/WebApplication1/src/java/ma/projet/test/Test.java</file>
+            <file>file:/C:/Users/Pc.Dell/Documents/NetBeansProjects/WebApplication1/src/java/ma/projet/service/EmployeTacheService.java</file>
+            <file>file:/C:/Users/Pc.Dell/Documents/NetBeansProjects/WebApplication1/src/java/ma/projet/classes/Projet.java</file>
+            <file>file:/C:/Users/Pc.Dell/Documents/NetBeansProjects/WebApplication1/web/index.html</file>
+            <file>file:/C:/Users/Pc.Dell/Documents/NetBeansProjects/WebApplication1/src/java/ma/projet/service/ProjetService.java</file>
+            <file>file:/C:/Users/Pc.Dell/Documents/NetBeansProjects/WebApplication1/src/java/ma/projet/config/hibernate.cfg.xml</file>
+            <file>file:/C:/Users/Pc.Dell/Documents/NetBeansProjects/WebApplication1/src/java/ma/projet/service/TacheService.java</file>
+        </group>
+    </open-files>
+</project-private>
